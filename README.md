@@ -1,2 +1,0 @@
-# CodexHolic
-SIH hackaton project
